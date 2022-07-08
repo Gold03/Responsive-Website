@@ -1,5 +1,5 @@
-**Created a Responsive Website **
+ # **Created a Responsive Website **
 
-A clone of Marc Jacobs website
+## A clone of Marc Jacobs website
 
-Languages Used : HTML and CSS
+## Languages Used : HTML and CSS
